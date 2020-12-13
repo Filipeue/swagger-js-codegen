@@ -5,7 +5,8 @@
   "description": "A Swagger codegen for TypeScript and JavaScript",
   "scripts": {
     "test": "jest",
-    "perf": "node ./lib/__perfs__/utilities/filterSwaggerPathsByTags.perf.js"
+    "perf": "node ./lib/__perfs__/utilities/filterSwaggerPathsByTags.perf.js",
+    "reinstall": "rm -rf node_modules package-lock.json && npm i"
   },
   "bin": {
     "swagger2js": "bin/swagger2js.js"
