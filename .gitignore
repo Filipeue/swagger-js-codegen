@@ -7,3 +7,5 @@ wks.*
 
 tmp-*
 .history
+
+coverage
