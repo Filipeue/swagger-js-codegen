@@ -1,5 +1,5 @@
 {
-  "name": "swagger-js-codegen",
+  "name": "filipeue-swagger-js-codegen",
   "main": "./lib/codegen.js",
   "version": "1.13.0",
   "description": "A Swagger codegen for TypeScript and JavaScript",
@@ -23,12 +23,11 @@
     "rest"
   ],
   "author": {
-    "name": "Martin Čuchta",
-    "email": "cuchta@bart.sk",
-    "url": "https://www.bart.sk"
+    "name": "Filip Kováč",
+    "email": "kovac@bart.sk"
   },
   "license": "Apache-2.0",
-  "homepage": "https://github.com/bart-sk/swagger-js-codegen",
+  "homepage": "https://github.com/Filipeue/swagger-js-codegen",
   "dependencies": {
     "commander": "^6.1.0",
     "isomorphic-fetch": "^3.0.0",
